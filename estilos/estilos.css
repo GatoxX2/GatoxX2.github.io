@@ -1,0 +1,21 @@
+a {
+    margin-top: 12px;
+    margin-left: 10%;
+    margin-right: -12px;
+     margin-bottom: 10px;
+        }
+a:link {color: red; text-decoration: none;}        
+a:visited {color: purple; text-decoration: none;}   
+a:hover {color:lightgreen;text-decoration: overline;}
+nav {background-color: lightsalmon;}
+body {background-color: lightyellow;}
+footer {margin-top: 19px;
+    margin-left: 45%;
+    margin-right: -12px;
+     margin-bottom: 50px;}
+
+img {height: 100px; width: 100px; margin-top: 12px;
+    margin-left: 15%;
+    margin-right: 8px;
+     margin-bottom: 10px;}     
+
